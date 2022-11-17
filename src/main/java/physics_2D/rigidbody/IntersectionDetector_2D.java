@@ -10,7 +10,6 @@ import util.GMath;
 import java.util.Vector;
 
 public class IntersectionDetector_2D {
-
     //Point vs. Primitives
     public static  boolean pointOnLine(Vector2f point, Line_2D line){
         //y = mx + b
